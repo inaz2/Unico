@@ -1,0 +1,4 @@
+future==0.16.0
+pefile==2016.3.28
+pkg-resources==0.0.0
+unicorn==1.0.1
